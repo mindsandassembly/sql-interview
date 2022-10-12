@@ -6,7 +6,7 @@ This example is designed to test basic knowledge and familiarity with SQL. You a
 
 ### Exercise
 
-Given the following Reports table:
+Given the following table named :
 
 | ID | FirstName | LastName | ReportsTo      | Position   | Age |
 |----|-----------|----------|----------------|------------|-----|
@@ -28,6 +28,6 @@ Write a query that returns the names of the people who are reported to (excludin
 
 If you'd like to use SQL to work in real time, please use the file from this repo that works with you preferred version of SQL. 
 
-source-table-mysql.sql - For mySql
-source-table-mssql.sql - For Microsoft SQL (should also work with sqllite but untested)
-source-table-postgres.sql - For Postgres
+- source-table-mysql.sql - For mySql
+- source-table-mssql.sql - For Microsoft SQL (should also work with sqllite but untested)
+- source-table-postgres.sql - For Postgres
